@@ -36,6 +36,6 @@ Keybase + discord by request.
  - 3-5 sentence pitch max.
  - For startups: I'll cover a full range of topics esp. technical writing.
  - Can be contacted for ghostwriting/marketing.
- - Interested in covering founder journeys in tech, media, crypto, blockchain.
+ - Interested in covering founder journeys in tech, media, film, crypto, blockchain.
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
