@@ -1,5 +1,6 @@
 # Newsletter
-My newsletter on Substack 
+
+Click [here](https://taylorsimone.substack.com/publish/settings/edit?title=About%20page&bodyField=subscribe_content) to go to my my newsletter on Substack 
 
 I'm Taylor. 
 
