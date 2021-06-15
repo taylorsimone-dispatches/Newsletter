@@ -28,9 +28,8 @@ I'm using git to track some deadlines including working with collaborators for b
  Pitching tips for PR companies:
  - Do not pressure me to write for media outlets.
  - Pseudonyms are allowed for interviewees by request.
- - I enjoy writing about startups.
- - Prep is research and fact check based. 
- - I enjoy hearing unconventional stories.
+ - Prep is research and fact-check based. 
+ - I love hearing unconventional stories.
  - 3-5 sentence pitch max.
  
 
