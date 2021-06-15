@@ -27,8 +27,8 @@ I'm using git to track some deadlines including working with collaborators for b
  
  Pitching tips for PR companies:
  - Do not pressure me to write for media outlets.
- - Pseudonyms are allowed for interviewees. 
- - Most of my prep is research based. 
+ - Pseudonyms are allowed for interviewees by request. 
+ - My prep is research and fact check based. 
  - I enjoy hearing unconventional stories.
  
 
