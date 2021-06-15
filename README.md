@@ -5,7 +5,8 @@ A Vancouver-based motion picture professional and freelance journalist.
 
 My specialties include communications, reporting, privacy, data, and conflict resolution in the motion picture industry.
 
-My debut book If At First You Don’t Succeed is slated for early 2022.
+My debut book If At First You Don’t Succeed is slated for early 2022 available in print/ebook potentially on a blockchain domain.
+
 
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about).
 
