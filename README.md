@@ -11,7 +11,12 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 
 Contents:
 
- Interview profiles:
+1. Interview profiles
+2. Freelance/founder conversations
+3. Book writing/design
+4. Resources/research
+
+Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, blockchain, decentralized finance.
    
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
