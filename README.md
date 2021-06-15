@@ -25,6 +25,8 @@ I'm using git to track some deadlines which includes working with collaborators 
  Questions + comments + feedback + collaborations ↓
  
  Sig. taylorsimone@protonmail.com
+
+Keybase + discord by request.
  
  Pitching tips/fyi for PR companies:
  - I write independenet journalism occasionally contributing to outlets.
