@@ -26,7 +26,7 @@ I'm using git to track some deadlines which includes working with collaborators 
  
  Sig. taylorsimone@protonmail.com
  
- Pitching tips for PR companies:
+ Pitching tips/fyi for PR companies:
  - Do not pressure me to write hit pieces for media outlets.
  - Pseudonyms are allowed for interviewees by request.
  - Prep is research and fact-check based. 
