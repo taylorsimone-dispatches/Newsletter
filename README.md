@@ -1,7 +1,7 @@
 
 I'm Taylor.
 
-A Vancouver-based film and television professional and freelance journalist. 
+A Vancouver-based film/television professional and freelance journalist. 
 
 My specialties include communications, reporting, privacy, data, and conflict resolution in the motion picture industry.
 
