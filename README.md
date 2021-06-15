@@ -24,5 +24,10 @@ I'm using git to track some deadlines including working with collaborators for b
  Questions + comments + feedback + collaborations ↓
  
  Sig. taylorsimone@protonmail.com
+ 
+ Pitching tips for PR companies:
+ - Do not ask me to write for media outlets.
+ - Pseudonyms are allowed for interviewees.
+ - I research and fact check. 
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
