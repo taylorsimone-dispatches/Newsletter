@@ -30,6 +30,7 @@ I'm using git to track some deadlines including working with collaborators for b
  - Pseudonyms are allowed for interviewees by request. 
  - My prep is research and fact check based. 
  - I enjoy hearing unconventional stories.
+ - Payment negotiable.
  
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
