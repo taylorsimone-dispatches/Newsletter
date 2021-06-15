@@ -19,7 +19,7 @@ Contents:
 
 Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
  
- Questions, comments, feedback, collaborations.
+ Questions, comments, feedback, collaborations ↓
  
  Sig. taylorsimone@protonmail.com
 
