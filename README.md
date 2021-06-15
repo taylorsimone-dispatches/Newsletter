@@ -11,6 +11,6 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 
 Contents:
 
-1. [i]Interview profiles:[/i]
+1. Interview profiles
    
 
