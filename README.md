@@ -19,7 +19,7 @@ Contents:
 
 Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
 
-I'm using git to track some of deadlines including working with collaborators for book design & distribution.
+I'm using git to track some deadlines including working with collaborators for book cover design, marketing, & distribution.
  
  Questions + comments + feedback + collaborations ↓
  
