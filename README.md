@@ -26,7 +26,7 @@ I'm using git to track some deadlines including working with collaborators for b
  Sig. taylorsimone@protonmail.com
  
  Pitching tips for PR companies:
- - My work is independent. Do not pressure me to write for media outlets.
+ - Do not pressure me to write for media outlets.
  - Pseudonyms are allowed for interviewees by request.
  - Prep is research and fact-check based. 
  - I love hearing unconventional stories.
