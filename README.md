@@ -31,6 +31,7 @@ I'm using git to track some deadlines including working with collaborators for b
  - Prep is research and fact-check based. 
  - I love hearing unconventional stories.
  - 3-5 sentence pitch max.
+ - For startups: I'll cover a full range of topics esp. technical writing.
  
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
