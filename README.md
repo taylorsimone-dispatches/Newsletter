@@ -30,5 +30,6 @@ I'm using git to track some deadlines including working with collaborators for b
  - Pseudonyms are allowed for interviewees. 
  - Most of my prep is research based. 
  - I enjoy hearing unconventional stories.
+ 
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
