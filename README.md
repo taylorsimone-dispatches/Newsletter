@@ -29,7 +29,7 @@ I'm using git to track some deadlines and experiment with skeleton drafting whic
 
 🔹 Keybase + discord + telegram by request.
  
- Pitching tips/fyi for PR companies:
+🌐 Pitching tips/fyi for PR companies:
 
  - I write independent journalism occasionally contributing to outlets.
  - Pseudonyms are allowed for interviewees by request.
