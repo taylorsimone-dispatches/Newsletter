@@ -29,7 +29,7 @@ Covered the role of AI software in solving homelessness. Interviewed Ample Labs 
 Crypto/blockchain:
 Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014.
 
-Sustainability & conservation: 
+Sustainability/conservation: 
 Wrote about Peruvian Canadian NGO founder Mara Brcic Bello located in Sacred Valley, Peru. 
 
 
