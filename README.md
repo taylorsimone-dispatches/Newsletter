@@ -26,7 +26,7 @@ Past interview topics:
 
 SaaS:
 Covered Virtual Assistant industry in Canada. 
-Interviewed Virtual Gurus CEO & Founder, Bobbie Racette.
+Interviewed Virtual Gurus CEO & founder, Bobbie Racette.
 
 AI:
 Covered the role of AI software in solving homelessness. 
