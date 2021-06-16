@@ -29,7 +29,7 @@ I'm using git to track some deadlines and experiment with skeleton drafting whic
 Keybase + discord by request.
  
  Pitching tips/fyi for PR companies:
- - I write independenet journalism occasionally contributing to outlets.
+ - I write independent journalism occasionally contributing to outlets.
  - Pseudonyms are allowed for interviewees by request.
  - Prep is research and fact-check based. 
  - I love hearing unconventional stories.
