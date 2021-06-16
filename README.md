@@ -18,7 +18,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 3. Book writing/design/marketing
 4. Resources/research
 
-Past topics: 
+Past interview topics: 
 
 SaaS:
 Covered Virtual Assistant industry in Canada. Interviewed Virtual Gurus CEO & Founder, Bobbie Racette.
