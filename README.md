@@ -27,7 +27,7 @@ I'm using git to track some deadlines and experiment with skeleton drafting whic
  
 🔹 Sig. taylorsimone@protonmail.com
 
-🔹 Keybase + discord by request.
+🔹 Keybase + discord + telegram by request.
  
  Pitching tips/fyi for PR companies:
 
