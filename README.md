@@ -14,7 +14,7 @@ Contents:
 
 1. Interview profiles
 2. Freelance/founder conversations
-3. Book writing/design
+3. Book writing/design/marketing
 4. Resources/research
 
 Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
