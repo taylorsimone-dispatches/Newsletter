@@ -23,13 +23,14 @@ Curious >> current events, social issues, international politics, history, law, 
 
 I'm using git to track some deadlines and experiment with skeleton drafting which includes working with collaborators for book cover design, marketing, & distribution.
  
- Questions + comments + feedback + collaborations ↓
+🔹 Questions + comments + feedback + collaborations ↓
  
- Sig. taylorsimone@protonmail.com
+🔹 Sig. taylorsimone@protonmail.com
 
-Keybase + discord by request.
+🔹 Keybase + discord by request.
  
  Pitching tips/fyi for PR companies:
+
  - I write independent journalism occasionally contributing to outlets.
  - Pseudonyms are allowed for interviewees by request.
  - Prep is research and fact-check based. 
