@@ -11,6 +11,8 @@ My debut book If At First You Don’t Succeed is slated for early 2022.
 Available in print/ebook potentially on a blockchain domain.
 
 
+
+
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about)🔗
 
 ▫️Contents:
