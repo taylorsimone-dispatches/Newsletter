@@ -30,7 +30,7 @@ Crypto/blockchain:
 Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014.
 
 Sustainability/conservation: 
-Wrote about Peruvian Canadian NGO founder Mara Brcic Bello located in Sacred Valley, Peru. 
+Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley, Peru. 
 
 
 
