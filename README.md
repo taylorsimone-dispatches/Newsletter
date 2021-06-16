@@ -34,6 +34,7 @@ Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello loca
 
 
 
+
 Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
 
 
