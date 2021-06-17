@@ -33,7 +33,9 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 
 
 
-Curious >> current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
+Curious >> 
+
+current events, social issues, international politics, history, law, business, philosophy, technology and startups, investing, culture, health sciences, sustainability, economics, poetry, film, design, science-fiction, marketing, startups, IT security and privacy, innovation, harm reduction, python, crypto, blockchain, decentralized finance.
 
 
 I'm using git to track some deadlines and experiment with skeleton drafting which includes working with collaborators for book cover design, marketing, & distribution.
