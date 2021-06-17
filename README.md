@@ -14,6 +14,8 @@ Available in print/ebook potentially on a blockchain domain.
 | --- | --- |
 | column | List all new or modified files |
 | column | file |
+| column | List all new or modified files |
+| column | file |
 
 
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about)🔗
