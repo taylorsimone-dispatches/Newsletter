@@ -10,7 +10,10 @@ My debut book If At First You Don’t Succeed is slated for early 2022.
 
 Available in print/ebook potentially on a blockchain domain.
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about)🔗
