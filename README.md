@@ -41,12 +41,6 @@ Objective >>
 
 I'm using git to track deadlines and experiment with skeleton drafting which includes working with collaborators for book cover design, marketing, & distribution.
  
-🔹 Questions + comments + feedback + collaborations ↓
- 
-🔹 Sig. taylorsimone@protonmail.com
-
-🔹 Keybase + discord + telegram by request.
- 
 🌐 Pitching tips/fyi for PR companies:
 
  - I write independent journalism occasionally contributing to outlets.
@@ -57,5 +51,11 @@ I'm using git to track deadlines and experiment with skeleton drafting which inc
  - For startups: I'll cover a full range of topics esp. technical writing.
  - Can be contacted for ghostwriting/marketing.
  - Interested in covering founder journeys in tech, media, film, crypto, blockchain.
+
+🔹 Questions + comments + feedback + collaborations ↓
+ 
+🔹 Sig. taylorsimone@protonmail.com
+
+🔹 Keybase + discord + telegram by request.
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
