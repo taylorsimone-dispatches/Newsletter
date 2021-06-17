@@ -24,7 +24,7 @@ Past interview topics:
 
 
 | Interview category | Description |
-| --- | --- |
+| --- | --- | --- |
 | SaaS | Covered Virtual Assistant industry in Canada | Interviewed Virtual Gurus CEO & founder, Bobbie Racette | 
 | AI | Covered the role of AI software in solving homelessness | Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
 | Crypto/blockchain | Covered e-residency for freelancers/founders | Discussed travelling to Estonia in 2014 |
