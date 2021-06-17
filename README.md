@@ -13,7 +13,7 @@ Available in print/ebook potentially on a blockchain domain.
 
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about)🔗
 
-▫️Contents:
+▫️ Contents:
 
 1. Interview profiles 
 2. Freelance/founder conversations
