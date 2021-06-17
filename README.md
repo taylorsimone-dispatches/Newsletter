@@ -23,7 +23,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 Past interview topics: 
 
 
-| Interview category | Description |
+| Interview category | Description | founder |
 | --- | --- | --- |
 | SaaS | Covered Virtual Assistant industry in Canada | Interviewed Virtual Gurus CEO & founder, Bobbie Racette | 
 | AI | Covered the role of AI software in solving homelessness | Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
