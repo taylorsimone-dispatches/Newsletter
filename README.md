@@ -10,13 +10,6 @@ My debut book If At First You Don’t Succeed is slated for early 2022.
 
 Available in print/ebook potentially on a blockchain domain.
 
-| Command | Description |
-| --- | --- |
-| column | List all new or modified files |
-| column | file |
-| column | List all new or modified files |
-| column | file |
-
 
 You can read my Substack newsletter [here](https://taylorsimone.substack.com/about)🔗
 
@@ -29,17 +22,17 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 
 Past interview topics: 
 
-SaaS:
-Covered Virtual Assistant industry in Canada. 
-Interviewed Virtual Gurus CEO & founder, Bobbie Racette.
 
-AI:
-Covered the role of AI software in solving homelessness. 
-Interviewed Toronto's Ample Labs CEO & founder, CG Chen.
+| Interview topic | Description |
+| --- | --- |
+| SaaS | Covered Virtual Assistant industry in Canada | Interviewed Virtual Gurus CEO & founder, Bobbie Racette | 
+| AI | Covered the role of AI software in solving homelessness | Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
+| Crypto/blockchain | Covered e-residency for freelancers/founders | Discussed travelling to Estonia in 2014 |
+| column | file |
 
-Crypto/blockchain:
-Covered e-residency for freelancers/founders. 
-Discussed travelling to Estonia in 2014 early stages of freelance writing.
+
+
+
 
 Conservation: 
 Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley, Peru. 
