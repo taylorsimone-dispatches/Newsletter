@@ -39,7 +39,7 @@ current events, social issues, international politics, history, law, business, p
 
 Objective >>
 
-I'm using git to track deadlines and experiment with skeleton drafting which includes working with collaborators for book cover design, marketing, & distribution.
+I'm using git to track both freelance and book deadlines while experimenting with skeleton drafting. I'm working with collaborators for book cover design, marketing, & distribution.
  
 🌐 Pitching tips/fyi for PR companies:
 
