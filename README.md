@@ -29,7 +29,6 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | AI | Covered role of AI software in solving homelessness. Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
 | Crypto/blockchain | Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014 |
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley, Peru | 
-
 | Bitcoin | A book review w/ Q+A on a Bitcoin Mining book available in October |
 
 
