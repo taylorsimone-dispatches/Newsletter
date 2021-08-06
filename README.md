@@ -56,6 +56,6 @@ I'm using git to track both freelance and book deadlines while experimenting wit
  
 🔹 Sig. taylorsimone@protonmail.com
 
-🔹 Keybase + discord + telegram by request.
+🔹 Keybase + discord + telegram + signal by request.
 
 ![image](https://user-images.githubusercontent.com/66944491/122100308-e2ab5f80-cdc7-11eb-8d45-370981c1f24e.png)
