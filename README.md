@@ -4,6 +4,7 @@ I'm Taylor.
 A Vancouver-based film/television professional and freelance journalist. 
 
 I dispatch for 19+ departments for major film productions and TV shows shooting in British Columbia. 
+
 Specialties include communications, reporting, privacy, data, and conflict resolution in the motion picture industry.
 
 My debut book If At First You Don’t Succeed is slated for early 2022.
