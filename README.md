@@ -1,7 +1,7 @@
 
 I'm Taylor.
 
-A Vancouver-based film/television professional and freelance journalist. 
+A Vancouver-based film/television tech professional and freelance journalist. 
 
 I dispatch for 19+ departments for major film productions and TV shows shooting in British Columbia. 
 
