@@ -31,7 +31,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Crypto/blockchain | Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014 |
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley Peru | 
 | Bitcoin | A Fall book review w/ Q+A on a Bitcoin book available in October |
-| Crypto/Fintech | CEO & Founder YIELD App blockchain in Europe |
+| Crypto/Fintech/DeFi | Covered remote crypto entrepreneurship w/ CEO & Founder Tim Frost YIELD App |
 
 
 Curious >> 
