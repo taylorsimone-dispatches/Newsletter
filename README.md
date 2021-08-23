@@ -32,7 +32,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley Peru | 
 | Bitcoin | A Fall book review w/ Q+A with reporter/author for a Bitcoin book available in October |
 | Crypto/Fintech/DeFi | Covered remote crypto entrepreneurship. Interviewed CEO & Founder Tim Frost YIELD App out in August |
-| International news |  Covering Afghanistan withdrawal ongoing sources in Kabul, Pakistan, Canada, US, UK |
+| International News |  Covering Afghanistan withdrawal ongoing sources in Kabul, Pakistan, Canada, US, UK |
 
 
 Curious >> 
