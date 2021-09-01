@@ -27,7 +27,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Writing topic | Project descriptions |
 | --- | --- | 
 | SaaS | Covered Virtual Assistant industry in Canada. Interviewed Virtual Gurus CEO & founder, Bobbie Racette | 
-| AI | Covered role of AI software in solving homelessness. Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
+| Artificial Intelligence | Covered role of AI software solving homelessness. Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
 | Crypto/Blockchain | Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014 |
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley Peru | 
 | Bitcoin | A Fall book review w/ Q+A with reporter/author for a Bitcoin book available in October |
