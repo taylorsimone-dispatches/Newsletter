@@ -46,7 +46,7 @@ I'm using git to track both freelance and book deadlines while experimenting wit
 🌐 Pitching tips/fyi for PR companies:
 
  - I write independent journalism occasionally contributing to outlets.
- - Pseudonyms are allowed for interviewees by request.
+ - Pseudonyms are allowed for interviewees by request verification.
  - Prep is research and fact-check based. 
  - I love hearing unconventional stories.
  - 3-5 sentence pitch max.
