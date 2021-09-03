@@ -54,6 +54,7 @@ I love hearing unconventional stories.
  - Interested in covering founder journeys in tech, media, film, crypto, blockchain.
 
 [3-5 sentence max pitch]
+
 🔹 Questions + comments + feedback + collaborations ↓
  
 🔹 Sig. taylorsimone@protonmail.com
