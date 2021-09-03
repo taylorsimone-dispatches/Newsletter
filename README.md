@@ -45,15 +45,15 @@ I'm using git to track both freelance and book deadlines while experimenting wit
  
 🌐 Pitching tips/fyi for PR companies:
 
+I love hearing unconventional stories.
  - I write independent journalism occasionally contributing to outlets.
  - Pseudonyms are allowed for interviewees by request verification.
  - Prep is research and fact-check based. 
- - I love hearing unconventional stories.
- - 3-5 sentence pitch max.
  - For startups: I'll cover a full range of topics esp. technical writing.
  - Can be contacted for ghostwriting/marketing.
  - Interested in covering founder journeys in tech, media, film, crypto, blockchain.
 
+[3-5 sentence max pitch]
 🔹 Questions + comments + feedback + collaborations ↓
  
 🔹 Sig. taylorsimone@protonmail.com
