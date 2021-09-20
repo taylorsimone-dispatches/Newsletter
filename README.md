@@ -30,9 +30,9 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Artificial Intelligence | Covered role of AI software solving homelessness. Interviewed Toronto's Ample Labs CEO & founder, CG Chen |
 | Crypto/Blockchain | Covered e-residency for freelancers/founders. Discussed travelling to Estonia in 2014 |
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley Peru | 
-| Bitcoin | A Fall book review w/ Q+A with reporter/author for a Bitcoin book available in October |
+| Bitcoin | DEVELOPING: A Fall book review w/ Q+A with reporter/author for a Bitcoin book available in October |
 | Crypto/Fintech/Decentralized Finance | Covered remote crypto entrepreneurship. Interviewed CEO & Founder Tim Frost YIELD App based in Bangkok |
-| International News |  Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK |
+| International News | DEVELOPING: Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK |
 
 
 Curious >> 
