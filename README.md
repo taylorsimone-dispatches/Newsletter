@@ -32,7 +32,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Conservation | Covered Peruvian Canadian NGO founder & Uma Rumi president Mara Brcic Bello located in Sacred Valley Peru | 
 | Bitcoin | A Fall book review w/ Q+A with reporter for a Bitcoin book available in October |
 | Crypto/Fintech/Decentralized Finance | Covered remote crypto entrepreneurship. Interviewed CEO & Founder Tim Frost YIELD App based in Bangkok |
-| International News | DEVELOPING: Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK, Australia UPDATED: Reporting on IRCC applicants in Afghanistan |
+| International News | DEVELOPING: Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK, Australia UPDATED: Reporting on IRCC applicants unable to leave Afghanistan |
 | NFTs/SaaS | 1200 word piece on Adobe Photoshop's move to implement NFT tools for photoshop users |
 
 
