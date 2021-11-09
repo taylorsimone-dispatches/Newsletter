@@ -34,7 +34,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | Crypto/Fintech/Decentralized Finance | Covered remote crypto entrepreneurship. Interviewed CEO & Founder Tim Frost YIELD App based in Bangkok |
 | International News | DEVELOPING: Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK, Australia UPDATED: Reporting on IRCC applicants unable to leave Afghanistan |
 | NFTs/SaaS | 1200 word piece on Adobe Photoshop's move to implement NFT tools for photoshop users |
-
+| Human rigts | Guest sequel essay on Globe and Mail op-ed by Author Rahela Nayebzadah on family stuck in Kabul |
 
 Curious >> 
 
