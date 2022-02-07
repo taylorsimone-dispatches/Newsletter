@@ -35,7 +35,7 @@ You can read my Substack newsletter [here](https://taylorsimone.substack.com/abo
 | International News | DEVELOPING: Covering Afghanistan withdrawal and Taliban targetings ongoing sources in Kabul, Pakistan, Canada, US, UK, Australia UPDATED: Reporting on IRCC applicants unable to leave Afghanistan |
 | NFTs/SaaS | 1200 word piece on Adobe Photoshop's move to implement NFT tools for photoshop users |
 | International human rights | Guest sequel essay on Globe and Mail op-ed by Author Rahela Nayebzadah on family stuck in Kabul |
-| E-commerce in conflict Zones| Phone interview with ASEEL founder Nasrat Khalid on how startups are responding to Afghanistan crisis |
+| Startups in conflict zones| Phone interview with ASEEL founder Nasrat Khalid on how startups are responding to Afghanistan crisis |
 
 Curious >> 
 
